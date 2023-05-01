@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I work as a software developer, and I'm specialized in working with C# and .NET technologies.    
+My expertise includes problem solving, object-oriented programming, unit testing, test-driven development, SQL, Entity Framework, Domain Driven Design, and agile methodologies.   
+   
+Outside of my primary skillset, I am also expanding my knowledge into the field of natural language processing and sentiment analysis as part of my Master's program. For that, I find working with Scala and Spark to be an enjoyable challenge that I am currently exploring.    
+    
+I am fluent in English and actively seeking job opportunities. If you would like to contact me, please feel free to reach out via email at shahidani.fatemeh@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/fatemehshahidani/
